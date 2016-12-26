@@ -12,7 +12,7 @@
   - Adafruit_LEDBackpack.h/.cpp
   - Adafruit_GFX.h/.cpp
   - gfxfont.h
-  - glcdfont.c
+  - glcdfont.c  
   ->
   - Adafruit_LED_New.h/.cpp
 ## To Do
